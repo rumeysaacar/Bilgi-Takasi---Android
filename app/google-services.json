@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282995800668",
+    "project_id": "bilgitakasi-b88b3",
+    "storage_bucket": "bilgitakasi-b88b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282995800668:android:5cbcb63ff8a479ca9a8499",
+        "android_client_info": {
+          "package_name": "com.example.bilgitakasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhlEyuBN4Xyd9um1vz4aYAmK9ryZ9GrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
